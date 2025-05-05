@@ -1,12 +1,38 @@
-# React + Vite
+# React JS & Tailwind - Responsive Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Dependencies
 
-Currently, two official plugins are available:
+- remixicon
+- tailwindcss
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Run Project
 
-## Expanding the ESLint configuration
+1. clone project React JS & Tailwind - Responsive Page
+   Open your terminal and run the following command to clone the frontend project:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+git clone https://github.com/rardan97/reactjs-responsive-page.git
+```
+
+2. Install Dependencies
+   After cloning the repository, navigate to the project folder and install the required dependencies:
+
+```
+cd reactjs-responsive-page
+npm install
+```
+
+3. run project
+   Once the dependencies are installed, start the development server with:
+
+```
+npm run dev
+```
+
+This will start the development server and you can access the application in your browser at:
+
+```
+http://localhost:5173
+```
+
+![Image](https://github.com/user-attachments/assets/35a10551-a7b1-4bb1-b238-fed2e619dd23)
